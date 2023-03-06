@@ -112,4 +112,4 @@ time.sleep(15)
 for i, message in np.ndenumerate(lines[:limit]):
 	pyautogui.write(message)
 	pyautogui.press('enter')
-	time.sleep(0.5)
+	time.sleep(0.5)  # Adjust your interval after sending a message in second time unit
