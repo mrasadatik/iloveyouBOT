@@ -50,3 +50,30 @@ Here are the direct download links for Python for different platforms:
 # IMPORTANT!!!!!!!!!!
 
 You have to minimize your terminal within `15` seconds and go to the application or tab where you want to send those message and just click to the box where you usually type message (focus the input field).
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<p align="right"><sub><sub>Dedicated to my dear Maria :purple_heart:</sub></sub></p>
