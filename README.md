@@ -1,7 +1,7 @@
 # :warning: Caution:
 Before running this program, it's important to acknowledge the potential risks and ethical concerns that come with using pyautogui for automated messaging. While this program may seem like harmless fun, there is a darker side to pyautogui that can lead to spamming, unethical behavior, and even legal consequences.
 
-By using this program, you risk being perceived as a spammer or a bot, which can damage your reputation and result in negative # consequences. Additionally, some messaging platforms may have strict policies against automated messages, and using this program could lead to account suspension or termination.
+By using this program, you risk being perceived as a spammer or a bot, which can damage your reputation and result in negative consequences. Additionally, some messaging platforms may have strict policies against automated messages, and using this program could lead to account suspension or termination.
 
 Furthermore, the use of automated messaging can also be considered an invasion of privacy and harassment, as the recipient may not have consented to receiving messages from you.
 
